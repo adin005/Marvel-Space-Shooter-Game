@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="img\beeg.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\enemyBlack2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\enemyBlack3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\iron.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\enemy_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\enemy_3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\PNG\Lasers\laserRed02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\PNG\Lasers\laserRed08.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\PNG\Lasers\laserRed12.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\enemy_laser.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\miss.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\missi.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\laserRed02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\laserRed08.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\laserRed12.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\1268307.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\ultron.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\blue.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\tha1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\purpur1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="img\green 1.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="invader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="alpha.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="beta.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gamma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlphaBomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="betabomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gammabomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dragon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="danger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LivesPowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FirePowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="firebullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shootingpowerup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="fonts\BodoniModa-Italic-VariableFont_opsz,wght.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\BodoniModa-VariableFont_opsz,wght.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\Jersey20-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\MajorMonoDisplay-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\SedanSC-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\ShareTechMono-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\UnicaOne-Regular.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+    <Font Include="fonts\tech.ttf">
+      <Filter>Resource Files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

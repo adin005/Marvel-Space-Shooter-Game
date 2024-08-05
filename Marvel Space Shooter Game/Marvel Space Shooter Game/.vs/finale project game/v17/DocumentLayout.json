@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gamma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\gamma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\alpha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\alpha.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\FirePowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\FirePowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\shootingpowerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\shootingpowerup.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\LivesPowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\LivesPowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\PowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\PowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\firebullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\firebullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\danger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\danger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\invader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\invader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\AlphaBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\AlphaBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gammabomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\gammabomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\beta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\beta.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\BetaBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B828B7B0-0917-44BD-9414-1FC50A94EE9A}|finale project game\\finale project game.vcxproj|solutionrelative:finale project game\\BetaBomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "shootingpowerup.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\shootingpowerup.h",
+              "RelativeDocumentMoniker": "finale project game\\shootingpowerup.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\shootingpowerup.h",
+              "RelativeToolTip": "finale project game\\shootingpowerup.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PowerUp.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\PowerUp.h",
+              "RelativeDocumentMoniker": "finale project game\\PowerUp.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\PowerUp.h",
+              "RelativeToolTip": "finale project game\\PowerUp.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\game.h",
+              "RelativeDocumentMoniker": "finale project game\\game.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\game.h",
+              "RelativeToolTip": "finale project game\\game.h",
+              "ViewState": "AQIAAOgCAAAAAAAAAAAAAPcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\player.h",
+              "RelativeDocumentMoniker": "finale project game\\player.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\player.h",
+              "RelativeToolTip": "finale project game\\player.h",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bullet.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bullet.h",
+              "RelativeDocumentMoniker": "finale project game\\bullet.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bullet.h",
+              "RelativeToolTip": "finale project game\\bullet.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\menu.h",
+              "RelativeDocumentMoniker": "finale project game\\menu.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\menu.h",
+              "RelativeToolTip": "finale project game\\menu.h",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "firebullet.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\firebullet.h",
+              "RelativeDocumentMoniker": "finale project game\\firebullet.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\firebullet.h",
+              "RelativeToolTip": "finale project game\\firebullet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bomb.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bomb.h",
+              "RelativeDocumentMoniker": "finale project game\\bomb.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\bomb.h",
+              "RelativeToolTip": "finale project game\\bomb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "alpha.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\alpha.h",
+              "RelativeDocumentMoniker": "finale project game\\alpha.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\alpha.h",
+              "RelativeToolTip": "finale project game\\alpha.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gamma.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gamma.h",
+              "RelativeDocumentMoniker": "finale project game\\gamma.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gamma.h",
+              "RelativeToolTip": "finale project game\\gamma.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LivesPowerUp.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\LivesPowerUp.h",
+              "RelativeDocumentMoniker": "finale project game\\LivesPowerUp.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\LivesPowerUp.h",
+              "RelativeToolTip": "finale project game\\LivesPowerUp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirePowerUp.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\FirePowerUp.h",
+              "RelativeDocumentMoniker": "finale project game\\FirePowerUp.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\FirePowerUp.h",
+              "RelativeToolTip": "finale project game\\FirePowerUp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:52.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "danger.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\danger.h",
+              "RelativeDocumentMoniker": "finale project game\\danger.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\danger.h",
+              "RelativeToolTip": "finale project game\\danger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "monster.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\monster.h",
+              "RelativeDocumentMoniker": "finale project game\\monster.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\monster.h",
+              "RelativeToolTip": "finale project game\\monster.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dragon.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\dragon.h",
+              "RelativeDocumentMoniker": "finale project game\\dragon.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\dragon.h",
+              "RelativeToolTip": "finale project game\\dragon.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "enemy.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\enemy.h",
+              "RelativeDocumentMoniker": "finale project game\\enemy.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\enemy.h",
+              "RelativeToolTip": "finale project game\\enemy.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "invader.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\invader.h",
+              "RelativeDocumentMoniker": "finale project game\\invader.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\invader.h",
+              "RelativeToolTip": "finale project game\\invader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AlphaBomb.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\AlphaBomb.h",
+              "RelativeDocumentMoniker": "finale project game\\AlphaBomb.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\AlphaBomb.h",
+              "RelativeToolTip": "finale project game\\AlphaBomb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\main.cpp",
+              "RelativeDocumentMoniker": "finale project game\\main.cpp",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\main.cpp",
+              "RelativeToolTip": "finale project game\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T19:42:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "gammabomb.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gammabomb.h",
+              "RelativeDocumentMoniker": "finale project game\\gammabomb.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\gammabomb.h",
+              "RelativeToolTip": "finale project game\\gammabomb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "beta.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\beta.h",
+              "RelativeDocumentMoniker": "finale project game\\beta.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\beta.h",
+              "RelativeToolTip": "finale project game\\beta.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "betabomb.h",
+              "DocumentMoniker": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\betabomb.h",
+              "RelativeDocumentMoniker": "finale project game\\betabomb.h",
+              "ToolTip": "C:\\Users\\adin\\Desktop\\Gittt\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\Marvel Space Shooter Game\\finale project game\\betabomb.h",
+              "RelativeToolTip": "finale project game\\betabomb.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T19:42:53.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
